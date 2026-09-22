@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruxiaoe.github.io/jinridasairu/sitemap.xml
